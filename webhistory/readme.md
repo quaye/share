@@ -1,4 +1,4 @@
-#
+# 《万维网简史（侧重商业）》
 
 ## 1 起源
 
@@ -76,9 +76,9 @@
 
 1994 - “[Netscape][link-Netscape]“ Marc Andreessen 成立  
 
-1994 - 《[Netscape Navigator][link-Netscape_Navigator]》Netscape
+1994 - 《[Netscape Navigator][link-Netscape_Navigator]》Netscape  
 
-1995 - Netscape2.0借机上市，公开募股
+1995 - Netscape2.0借机上市，公开募股  
 
 ### 2.1 微软的ie
 
@@ -122,13 +122,15 @@
 
 2004年 《[Mozilla Firefox (通称 Firefox)][link-Firefox]》 Mozilla基金会 代表Netscape灰烬中浴火重生  
 
-2015年 《[Microsoft Edge][link-Microsoft_Edge]》 Microsoft ;2018年后基于blink开发
+2015年 《[Microsoft Edge][link-Microsoft_Edge]》 Microsoft ;2018年后采用chrome内核
 
 ### 3.5 [万维网名企盘点（此乃超链接）](https://wiki.mbalib.com/wiki/2019%E5%B9%B4%E3%80%8A%E7%A6%8F%E5%B8%83%E6%96%AF%E3%80%8B%E5%85%A8%E7%90%83%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B82000%E5%BC%BA)
 
 ---
 
 ## 4. FMVP谷歌（10年代）
+
+### ~~~4.1 商业浏览器的成功范本~~~
 
 ### 4.1 浏览器的成功范本继android之后，web市场吞噬大半
 
@@ -146,9 +148,9 @@
 ### 4.2 引领W3C标准
 
 - 2005 - 率先使用AJAX  
-- 2008 - 缔造V8引擎
-- 2013 - 缔造blink
-- 2015 - 首推pwa
+- 2008 - 缔造V8引擎  
+- 2013 - 缔造blink  
+- 2015 - 首推pwa （离线可访问、桌面图标、消息推送）
 
 ### 4.3 嘿嘿一笑：小程序
 
@@ -158,9 +160,10 @@
 
 ## 5 拓展闲谈
 
-- 主流浏览器跟风闲谈
-  - 微软牛时超ie
-  - chrome厉害移植chrome
+- 跟风闲谈
+  - 微软牛时超ie  
+  - goole厉害跟chrome  
+  - pwa出来跟小程序  
 
 - 互联网商业模式盘点
   - web 0.0
@@ -170,8 +173,8 @@
     - 1990左右 ： 软件零售
 
   - web 2.0
-    - 2000～2010 ： SP（增值服务提供商）、虚拟商品、内容付费、免费+增值
-    - 2010～至今 ： 云服务（iaas、saas、paas）
+    - 2000～2010 ： SP（增值服务提供商）、虚拟商品、内容付费、免费+增值、电子商务
+    - 2010～2020 ： 云服务（iaas、paas、saas）、广告
 
   - web 3.0 - 未知
 
