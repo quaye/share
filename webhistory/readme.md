@@ -78,7 +78,7 @@
 
 1994 - 《[Netscape Navigator][link-Netscape_Navigator]》Netscape  
 
-1995 - Netscape2.0借机上市，公开募股  
+1995 - Netscape2.0借机上市，公开募股 (一天内28$ -> 75$)
 
 ### 2.1 微软的ie
 
@@ -177,6 +177,8 @@
     - 2010～2020 ： 云服务（iaas、paas、saas）、广告
 
   - web 3.0 - 未知
+
+- 如何我们是当年的网景，怎么打赢微软？
 
 ## 6 展望未来
 
