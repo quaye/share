@@ -92,7 +92,7 @@ In computing, a web application or web app is a client–server computer program
 > oh my god 001: 世界上第一个网页浏览器,后来为了避免与万维网混淆而改名为Nexus
 
 - 1993年 《[Mosaic][link-Mosaic]》 马克·洛厄尔·安德森（Marc Lowell Andreessen）
-- 1994年 《[Netscape Navigator][link-Netscape Navigator]》Netscape
+- 1994年 《[Netscape Navigator][link-Netscape_Navigator]》Netscape
 - 1995年 《[Internet Explorer ( 简称 IE )][link-Internet_Explorer]》Microsoft
   
 > oh my god 002: [第一次浏览器大战（1995–2001）][link-Browser_wars] 《IE》 (胜) vs（败）《Netscape Navigator》
@@ -294,7 +294,7 @@ JavaScript引擎是一种计算机程序，其执行的JavaScript（JS）的代�
 
   - 【 HTTP 1.0 】
 
-> ---------------- WEB 1.0 时代 in ---------------- 仅能阅读（陌生人）
+> ---------------- 0 时代 in ---------------- 仅能阅读（陌生人）
 
 需求: 纯静态页面，网页仍然只读，只能从服务器到客户端单向流通？（所有人请求结果都一样）  
 需求：撸代码，咱俩写的咋不大一样？
@@ -662,7 +662,7 @@ TypeScript是一种由 microsoft 开发的自由和开源的编程语言。它�
 [link-Netscape]:https://en.wikipedia.org/wiki/Netscape
 [link-Nexus]:https://en.wikipedia.org/wiki/WorldWideWeb
 [link-Web_browser]:https://en.wikipedia.org/wiki/Web_browser
-[link-Netscape Navigator]:https://en.wikipedia.org/wiki/Netscape_Navigator
+[link-Netscape_Navigator]:https://en.wikipedia.org/wiki/Netscape_Navigator
 [link-Mosaic]:https://en.wikipedia.org/wiki/Mosaic_(web_browser)
 [link-Opera]:https://en.wikipedia.org/wiki/Opera_(web_browser)
 [link-Internet_Explorer]:https://en.wikipedia.org/wiki/Internet_Explorer
