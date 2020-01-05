@@ -177,7 +177,9 @@
 
 ## 6 展望未来
 
-
+- 未来是万维网的主旋律。
+- 用”互联网“思维重构固有的商业模式
+- 拥抱变化，不墨守陈规
 
 [link-Netscape]:https://en.wikipedia.org/wiki/Netscape
 [link-Netscape_Navigator]:https://en.wikipedia.org/wiki/Netscape_Navigator
